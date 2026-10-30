@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" role="img" aria-labelledby="title desc">
+<title id="title">Victor Freight</title><desc id="desc">Silver V monogram and Victor Freight wordmark</desc>
+<defs><linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset=".35" stop-color="#b9c5d5"/><stop offset=".7" stop-color="#71839b"/><stop offset="1" stop-color="#e7edf5"/></linearGradient></defs>
+<path d="M8 12h25l22 37 22-37h25L55 83z" fill="url(#silver)"/><path d="M38 12h17L87 66 78 82z" fill="#8294ab" opacity=".65"/>
+<text x="118" y="43" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="800" letter-spacing="2.2">VICTOR FREIGHT</text>
+<text x="120" y="67" fill="#9eafc4" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" letter-spacing="4.1">FREIGHT DISPATCH SERVICES</text>
+</svg>
