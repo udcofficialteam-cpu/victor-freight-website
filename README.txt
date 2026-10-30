@@ -58,10 +58,11 @@ IMPORTANT OWNER REVIEW
 ---------------------
 - Confirm that Victor Freight's public business details, 24/7 support wording, services, equipment acceptance, payment/fee policy and all claims are accurate.
 - The site currently lists Overland Park, Kansas at city level only. It does not invent a street address.
-- Dispatch pricing is described as load-based and subject to equipment/fleet size and the written agreement. Exact rates are not published.
+- Dispatch pricing is described as load-based and may vary by equipment type and fleet size. The applicable fee should be explained to the carrier before dispatch service begins; exact rates are not published.
 - Carrier MC/operating authority and USDOT fields are for the carrier, not Victor Freight.
 - The public quote form does not collect sensitive document uploads. Request MC certificate, COI, W-9, NOA or voided check only through an approved secure onboarding channel.
 - The company history/founding date has not been supplied, so the site does not invent one. Add approved founder story before final publication.
+- The website explains that Victor Freight does not require carriers to sign a dispatch service contract or commit to a fixed term. Carriers may stop at any time by informing their assigned dispatcher. Carriers still give permission for dispatch activity and decide whether to accept each load. Confirm this wording with Victor Freight before launch.
 - Legal pages are starter drafts and must be reviewed by Victor Freight and qualified counsel.
 - Stock photographs are illustrative, not photos of Victor Freight-owned trucks or its actual fleet. Replace them with company-owned photos when available.
 
